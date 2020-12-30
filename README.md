@@ -11,4 +11,6 @@ explicity in command line arguments for example **python main.py /root/data/** c
 - On linux the default location will be _/root/Datastore/key_value_
 
 # How to create key_value pairs
+- When you run the file you can see the menu like the image below
+![](output/menu.PNG)
 
