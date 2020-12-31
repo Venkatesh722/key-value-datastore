@@ -11,8 +11,7 @@ explicity in command line arguments for example **python main.py /root/data/** c
 - On linux the default location will be _/root/Datastore/key_value_
 
 # How to create key_value pairs
-- The menu looks like the below image
-![](output/menu.PNG)
+- There are two cases for creation of key-value pairs the cases are defined below
 # Case 1:Without TTL
 ![](output/without_ttl.PNG)
 # Case 2:With TTL(10 seconds)
