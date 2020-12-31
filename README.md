@@ -17,6 +17,9 @@ explicity in command line arguments for example **python main.py /root/data/** c
 # Case 2:With TTL(10 seconds)
 ![](output/with_ttl.PNG)
 
- 
+# Features of the datastore
 
-
+- User can be able to provide path where the location of datastore will be.
+- User can be able to perform CRD operations on key-value pairs
+- User can be able to give Time-To-Live in seconds for a key-value pair.
+- User can be able to store the data in considerably little memory with more optimized performance.
