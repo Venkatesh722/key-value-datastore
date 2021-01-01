@@ -16,7 +16,10 @@ explicity in command line arguments for example **python main.py C:\Users\user\D
 ![](output/without_ttl.PNG)
 # Case 2:With TTL(10 seconds)
 ![](output/with_ttl.PNG)
-
+# Basic CRD operations
+![](output/basic_crd.PNG)
+# Contents of datastore.csv
+![](output/file_output.PNG)
 # Features of the datastore
 
 - User can be able to perform CRD operations on key-value pairs
